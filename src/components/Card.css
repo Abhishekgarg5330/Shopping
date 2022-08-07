@@ -1,0 +1,42 @@
+.card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card__img {
+    width: 10rem;
+    height: 10rem;
+    margin: 20px 10px;
+}
+
+.card__button {
+    background-color: rgb(24,180,116);
+    border: none;;
+    border-radius: 5%;
+    margin: 50px 50px 0 50px;
+    padding: 8px 32px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.card__button:hover {
+    cursor: pointer;
+}
+
+@media screen and (max-width: 400px) {
+    .card__img {
+        width: 8rem;
+        height: 8rem;
+        margin: 10px 10px;
+    }
+    .card_details {
+        font-size: 0.5rem;
+    }
+    .card__button{
+        margin-top: 120px;
+        font-size: 8px;
+    }
+}

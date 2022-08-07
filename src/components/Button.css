@@ -1,0 +1,29 @@
+.button {
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 30px;
+    background-color: white;
+}
+
+.button__num {
+    color: rgb(24,180,116);
+    border-top: solid rgb(24,180,116); 
+    border-bottom: solid rgb(24,180,116);
+}
+
+.button__mins{
+    border-top: solid rgb(24,180,116);
+    border-left: solid rgb(24,180,116);
+    border-bottom: solid rgb(24,180,116);
+}
+
+.button__plus{
+    border-top: solid rgb(24,180,116);
+    border-right: solid rgb(24,180,116);
+    border-bottom: solid rgb(24,180,116);
+}
+
+.button:hover {
+    cursor: pointer;
+}

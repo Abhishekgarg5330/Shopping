@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Mom's style Ajwaini Paratha",
+    "description": "Ajwari has such a tantalising aroma and flavour that it can pep up a dish as a standalone spice. You will rea...",
+    "img": "https://www.whiskaffair.com/wp-content/uploads/2017/03/Ajwain-Paratha-2.jpg",
+    "price": 1,
+    "maxPrice": "₹50"
+  },
+  {
+    "id": 2,
+    "title": "Roasted Cereal-Wheat Jowar Bajra",
+    "description": "Roasted Cereal-Wheat Jowar Bajra",
+    "img": "https://5.imimg.com/data5/VA/SP/MY-24800093/bajra-puff-500x500.jpg",
+    "price": 1,
+    "maxPrice": "₹21"
+  },
+  {
+    "id": 3,
+    "title": "Roasted Cereal-Wheat Jowar Bajra",
+    "description": "Roasted Cereal-Wheat Jowar Bajra",
+    "img": "https://5.imimg.com/data5/VA/SP/MY-24800093/bajra-puff-500x500.jpg",
+    "price": 1,
+    "maxPrice": "₹21"
+  },
+  {
+    "id": 4,
+    "title": "Roasted Cereal-Wheat Jowar Bajra",
+    "description": "Roasted Cereal-Wheat Jowar Bajra",
+    "img": "https://5.imimg.com/data5/VA/SP/MY-24800093/bajra-puff-500x500.jpg",
+    "price": 1,
+    "maxPrice": "₹21"
+  },
+  {
+    "id": 5,
+    "title": "Roasted Cereal-Wheat Jowar Bajra",
+    "description": "Roasted Cereal-Wheat Jowar Bajra",
+    "img": "https://5.imimg.com/data5/VA/SP/MY-24800093/bajra-puff-500x500.jpg",
+    "price": 1,
+    "maxPrice": "₹21"
+  }
+]

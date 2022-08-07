@@ -1,0 +1,40 @@
+.checkout {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5% 10%;
+}
+.detail-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.price {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-weight: bolder;
+  padding: 2% 0%;
+}
+
+.prod {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.selectName {
+  color: white;
+  font-size: 2rem;
+}
+.selectName:hover {
+  cursor: pointer;
+}
+
+.details-outer-box {
+  padding: 2% 0%;
+}
+
+.details-val{
+    padding: 1% 0%;
+}
